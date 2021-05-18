@@ -16,5 +16,6 @@ Freatures :
       4. Binary
       5. Caesar.Cipher (using ur key)
 
+Install the requirements.txt using **`pip install -r requirements.txt`**
 
 Have Fun
