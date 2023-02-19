@@ -1,12 +1,10 @@
 # Encoder-Decoder
-I made a encoder and decoder,
+I made a Encoder / Decoder
 
 Encode any data into the provided encoder
 And
 Also
 Decode them.
-
-My 2nd python project, Proud Me.
 
 Freatures :
 
@@ -18,4 +16,4 @@ Freatures :
 
 Install the requirements.txt using **`pip install -r requirements.txt`**
 
-Have Fun
+Have Fun.
